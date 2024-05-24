@@ -18,7 +18,7 @@ Este projeto consiste na criação de um e-book sobre a ciência do sono, utiliz
 - Design atraente e profissional, facilitando a leitura e compreensão dos temas abordados.
 
 
-[E-book sobre a Ciência do Sono](https://gamma.app/docs/A-Ciencia-do-Sono-94md8wtnxgg7nta)
+  [E-book sobre a Ciência do Sono](https://gamma.app/docs/A-Ciencia-do-Sono-94md8wtnxgg7nta)
 
 ## 💭 Reflexão (Opcional)
 Criar um projeto 'natty' com IA foi um desafio interessante, pois exigiu equilibrar criatividade humana e precisão técnica das IAs, resultando em um produto final que combina o melhor de ambos os mundos.
